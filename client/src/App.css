@@ -1,0 +1,15 @@
+.navbar-brand {
+    width:100%; 
+    text-align: center; 
+    padding-top: 5px; 
+}
+
+.CardContainer {
+    flex-direction: column;
+    justify-content: center; 
+}
+.fc-event {
+    width: auto; 
+    min-height: 40px; 
+    cursor: grabbing; 
+}

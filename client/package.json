@@ -1,0 +1,41 @@
+{
+  "name": "smartpetfeeder",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fullcalendar": "^3.10.0",
+    "jquery": "^3.3.1",
+    "jquery-ui-dist": "^1.12.1",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.23",
+    "react": "^16.8.3",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-dom": "^16.8.3",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5",
+    "react-time-picker": "^3.3.0",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "proxy": "http://localhost:5000/",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Derek Dorrance",
+  "license": "ISC",
+  "description": "ITEC345 IoT Project"
+}
